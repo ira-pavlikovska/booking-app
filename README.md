@@ -1,1 +1,11 @@
-# booking-app
+# Best Book Search
+
+## Run proxy:
+
+### `cd proxy`
+### `npm i && npm start`
+
+## Run app:
+
+### `npm i && npm start`
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
